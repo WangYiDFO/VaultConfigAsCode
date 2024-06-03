@@ -1,0 +1,8 @@
+{
+  "role_name": "default-user",
+  "bound_audiences": ["deptA"],
+  "user_claim": "sub",
+  "policies": ["default", "default-user-policy"],
+  "ttl": "1h",
+  "max_ttl": "24h"
+}

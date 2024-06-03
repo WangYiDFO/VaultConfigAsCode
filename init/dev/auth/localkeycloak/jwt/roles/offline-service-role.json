@@ -1,0 +1,8 @@
+{
+  "role_name": "offline-service",
+  "bound_subjects": ["offline-service-sub-id"],
+  "user_claim": "sub",
+  "policies": ["default", "offline-service-policy"],
+  "ttl": "1h",
+  "max_ttl": "24h"
+}

@@ -1,0 +1,5 @@
+{
+  "oidc_discovery_url": "https://sso-iu.localhost.test/auth/realms/deptA",
+  "bound_issuer": "https://sso-iu.localhost.test/auth/realms/deptA",
+  "default_role": "default-user"
+}
